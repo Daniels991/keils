@@ -1,6 +1,66 @@
 
 
-.bird.svg {
+.bird {
     position: relative;
-    left: 200px;
+    left: 70px;
+}
+
+.home {
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+
+.explore {
+    position: relative;
+    top: 80px; 
+    left: 10px;
+}
+
+.bell {
+    position: relative;
+    top: 120px;
+    right: 20px;
+}
+
+.message {
+    position: relative;
+    top: 160px;
+    right: 45px;
+}
+
+.bookmark {
+    position: relative; 
+    top: 200px;
+    right: 70px;
+}
+
+.lists {
+    position: relative;
+    top: 240px;
+    right: 95px;
+}
+
+.profile {
+    position: relative;
+    top: 280px;
+    right: 120px;
+}
+
+.more {
+    position: relative;
+    top: 320px;
+    right: 145px;
+}
+
+.tweetbutton{
+    position: relative;
+    top: 400px;
+    right: 180px;
+}
+
+.example {
+
+    position: relative;
+    left: 1100px;
 }
